@@ -1,7 +1,7 @@
 # ENSOLVERS Test: Implementation Excercise
 
 ### Introduction
-The objective of this exercise is to demonstrate my skills to create a simple web application, requested by the ensolvers' team.
+The objective of this exercise is to demonstrate my skills to create a simple web application, requested by the Ensolvers' team.
 
 
 ### Technologies
